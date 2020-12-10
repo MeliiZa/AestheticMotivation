@@ -36,3 +36,17 @@
       author: "",
     },
   ];
+  function chooseRandom(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+  }
+  window.onload = function () {
+    
+    var randomQuote = chooseRandom(quotes);
+
+    document.getElementById("quote").innerHTML = randomQuote.quote;
+    document.getElementById("author").innerHTML =
+       randomQuote.author;
+    document.getElementById("quote").className = "move";
+    document.getElementById("author").className = "move";
+  };
+})();
