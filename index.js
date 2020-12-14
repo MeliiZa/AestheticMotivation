@@ -35,6 +35,11 @@
         "BIG IDEAS HAVE SMALL BEGINNINGS",
       author: "",
     },
+    {
+      quote:
+        "THE HAPPINESS OF YOUR LIFE DEPENDS ON THE QUALITY OF YOUR THOUGHTS",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
