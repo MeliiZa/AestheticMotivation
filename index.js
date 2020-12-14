@@ -52,7 +52,12 @@
     },
     {
       quote:
-        "BE AFRAID AND DO IT ANYWAY",
+        "YOU ARE DOING WONDERFUL DARLING",
+      author: "",
+    },
+    {
+      quote:
+        "GIVE YOURSELF MORE CREDIT",
       author: "",
     },
   ];
