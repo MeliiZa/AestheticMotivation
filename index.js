@@ -40,6 +40,11 @@
         "THE HAPPINESS OF YOUR LIFE DEPENDS ON THE QUALITY OF YOUR THOUGHTS",
       author: "",
     },
+    {
+      quote:
+        "CELEBRATE EVERY TINY VICTORY",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
