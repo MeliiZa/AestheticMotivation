@@ -60,6 +60,11 @@
         "GIVE YOURSELF MORE CREDIT",
       author: "",
     },
+    {
+      quote:
+        "DO IT FOR YOUR FUTURE SELF",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
