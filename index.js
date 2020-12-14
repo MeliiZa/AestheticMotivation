@@ -11,7 +11,7 @@
     },
     {
       quote:
-        "EVERYDAY IS A FRESH START",
+        "EVERY DAY IS A FRESH START",
       author: "",
     },
     { quote: "STAY POSITIVE.", author: "" },
