@@ -85,6 +85,21 @@
         "THE SECRET OF YOUR FUTURE IS HIDDEN IN YOUR DAILY ROUTINE",
       author: "",
     },
+    {
+      quote:
+        "TRUST YOUR GUT, SHE KNOWS BEST",
+      author: "",
+    },
+    {
+      quote:
+        "STOP TRYING TO CALM THE STORM. CALM YOURSELF. THE STORM WILL PASS.",
+      author: "",
+    },
+    {
+      quote:
+        "IF YOU'RE MAKING MISTAKES IT MEANS YOU'RE TRYING.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
