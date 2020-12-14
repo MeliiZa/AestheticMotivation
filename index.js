@@ -70,6 +70,11 @@
         "SEEK WHAT SETS YOUR SOUL ON FIRE",
       author: "",
     },
+    {
+      quote:
+        "IT'S OKAY TO NOT HAVE IT FIGURED OUT YET",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
