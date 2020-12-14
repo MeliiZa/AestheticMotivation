@@ -100,6 +100,26 @@
         "IF YOU'RE MAKING MISTAKES IT MEANS YOU'RE TRYING.",
       author: "",
     },
+    {
+      quote:
+        "REMEMBER WHY YOU STARTED",
+      author: "",
+    },
+    {
+      quote:
+        "SOMETIMES IT'S HAVING THE FEAR AND MOVING FORWARD ANYWAYS.",
+      author: "",
+    },
+    {
+      quote:
+        "IT'S A SLOW PROCESS, BUT QUITTING WON'T SPEED IT UP.",
+      author: "",
+    },
+    {
+      quote:
+        "VISUALISE YOUR HIGHEST SELF. START SHOWING UP AS HER.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
