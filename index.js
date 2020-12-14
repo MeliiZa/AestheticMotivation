@@ -125,6 +125,11 @@
         "ACT LIKE THE PERSON YOU WANT TO BECOME.",
       author: "",
     },
+    {
+      quote:
+        "YOU ARE THE FUTURE.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
