@@ -1,3 +1,4 @@
+# <img src="/icon128.png">
 # Aestetic Motivation a Chrome Extension
 
 Open a new tab or window, get a minimal motivational message.
