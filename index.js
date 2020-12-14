@@ -45,6 +45,16 @@
         "CELEBRATE EVERY TINY VICTORY",
       author: "",
     },
+    {
+      quote:
+        "BE AFRAID AND DO IT ANYWAY",
+      author: "",
+    },
+    {
+      quote:
+        "BE AFRAID AND DO IT ANYWAY",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
