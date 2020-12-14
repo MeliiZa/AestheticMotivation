@@ -120,6 +120,11 @@
         "VISUALISE YOUR HIGHEST SELF. START SHOWING UP AS HER.",
       author: "",
     },
+    {
+      quote:
+        "ACT LIKE THE PERSON YOU WANT TO BECOME.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
