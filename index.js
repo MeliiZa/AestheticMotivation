@@ -75,6 +75,16 @@
         "IT'S OKAY TO NOT HAVE IT FIGURED OUT YET",
       author: "",
     },
+    {
+      quote:
+        "RELAX YOU WILL BE OKAY",
+      author: "",
+    },
+    {
+      quote:
+        "THE SECRET OF YOUR FUTURE IS HIDDEN IN YOUR DAILY ROUTINE",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
