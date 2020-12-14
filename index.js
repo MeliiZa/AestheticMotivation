@@ -65,6 +65,11 @@
         "DO IT FOR YOUR FUTURE SELF",
       author: "",
     },
+    {
+      quote:
+        "SEEK WHAT SETS YOUR SOUL ON FIRE",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
