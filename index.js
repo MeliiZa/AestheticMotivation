@@ -130,6 +130,11 @@
         "YOU ARE THE FUTURE.",
       author: "",
     },
+    {
+      quote:
+        "REMEMBER YOUR WORDS CAN PLANT GARDENS OR BURN WHOLE FOREST DOWN.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
