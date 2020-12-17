@@ -170,6 +170,11 @@
         "WE CANNOT BECOME WHAST WE WANT BY REMAINING WHAT WE ARE.",
       author: "",
     },
+    {
+      quote:
+        "STOP DOUBTING YOURSELF.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
