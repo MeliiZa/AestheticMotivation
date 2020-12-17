@@ -160,6 +160,16 @@
         "ONE THING AT A TIME.",
       author: "",
     },
+    {
+      quote:
+        "THE FUTURE DEPENDS ON WHAT YOU DO TODAY.",
+      author: "",
+    },
+    {
+      quote:
+        "WE CANNOT BECOME WHAST WE WANT BY REMAINING WHAT WE ARE.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
