@@ -185,6 +185,11 @@
         "IT WILL ALL MAKE SENSE EVENTUALLY.",
       author: "",
     },
+    {
+      quote:
+        "OLD WAYS DONT OPEN NEW DOORS.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
