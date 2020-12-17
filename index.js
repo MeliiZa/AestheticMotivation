@@ -175,6 +175,11 @@
         "STOP DOUBTING YOURSELF.",
       author: "",
     },
+    {
+      quote:
+        "YOUR POTENTIAL IS INFINITE.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
