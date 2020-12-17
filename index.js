@@ -182,7 +182,7 @@
     },
     {
       quote:
-        "KEEP YOUR CHIN UP.",
+        "IT WILL ALL MAKE SENSE EVENTUALLY.",
       author: "",
     },
   ];
