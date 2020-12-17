@@ -189,6 +189,10 @@
       quote:
         "OLD WAYS DONT OPEN NEW DOORS.",
       author: "",
+    },    {
+      quote:
+        "MISTAKES ARE PROOF THAT YOU ARE TRYING.",
+      author: "",
     },
   ];
   function chooseRandom(arr) {
