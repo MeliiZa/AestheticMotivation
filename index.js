@@ -180,6 +180,11 @@
         "YOUR POTENTIAL IS INFINITE.",
       author: "",
     },
+    {
+      quote:
+        "KEEP YOUR CHIN UP.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
