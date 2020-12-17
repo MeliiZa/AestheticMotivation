@@ -155,6 +155,11 @@
         "SMALL PROGRESS IS STILL PROGRESS.",
       author: "",
     },
+    {
+      quote:
+        "ONE THING AT A TIME.",
+      author: "",
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
