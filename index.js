@@ -213,6 +213,12 @@
       author: "",
       
     },
+    {
+      quote:
+        "YOU HAVE ENDURED SO MUCH, AND LOOK AT YOU ARE STILL HERE.",
+      author: "",
+      
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
