@@ -201,6 +201,18 @@
       author: "",
       
     },
+    {
+      quote:
+        "YOU ARE MORE RESILIENT THAN YOU THINK.",
+      author: "",
+      
+    },
+    {
+      quote:
+        "BE.",
+      author: "",
+      
+    },
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
