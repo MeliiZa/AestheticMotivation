@@ -209,7 +209,7 @@
     },
     {
       quote:
-        "BE.",
+        "BE BRAVE ENOUGH TO SUCK AT SOMETHING NEW.",
       author: "",
       
     },
