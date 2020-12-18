@@ -27,7 +27,7 @@
     },
     {
       quote:
-        "DO IT NOW YOU WILL THANK YOURSELF LATER",
+        "DO IT NOW. YOU WILL THANK YOURSELF LATER",
       author: "",
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       quote:
-        "WE CANNOT BECOME WHAST WE WANT BY REMAINING WHAT WE ARE.",
+        "WE CANNOT BECOME WHAT WE WANT BY REMAINING WHAT WE ARE.",
       author: "",
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       quote:
-        "OLD WAYS DONT OPEN NEW DOORS.",
+        "OLD WAYS WON'T OPEN NEW DOORS.",
       author: "",
     },    {
       quote:
