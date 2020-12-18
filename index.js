@@ -218,6 +218,11 @@
         "YOU HAVE ENDURED SO MUCH, AND LOOK AT YOU ARE STILL HERE.",
       author: "",
       
+    },    {
+      quote:
+        "EVERY STORM RUNS OUT OF RAIN.",
+      author: "MAYA ANGELOU",
+      
     },
   ];
   function chooseRandom(arr) {
