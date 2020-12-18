@@ -218,12 +218,19 @@
         "YOU HAVE ENDURED SO MUCH, AND LOOK AT YOU ARE STILL HERE.",
       author: "",
       
-    },    {
+    },    
+    {
       quote:
         "EVERY STORM RUNS OUT OF RAIN.",
       author: "MAYA ANGELOU",
       
     },
+    {
+      quote:
+        "YOU ARE FORGETTING HOW FAR YOU HAVE COME.",
+      author: "",
+      
+    },    
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
