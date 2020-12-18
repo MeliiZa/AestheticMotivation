@@ -1,14 +1,14 @@
 {
     "name": "Aesthetic Motivation Extension by MeliiZa",
     "short_name": "Aesthetic Motivation Extension",
-    "version": "0.0.1",
+    "version": "0.2.0",
     "icons": {
         "16": "icon16.png",
         "48": "icon48.png",
         "128": "icon128.png"
       },
     "description": "Stylish motivation for your life",
-    "manifest_version": 3,
+    "manifest_version": 2,
     "chrome_url_overrides": {
      "newtab": "index.html"
     }
