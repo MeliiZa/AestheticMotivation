@@ -193,6 +193,13 @@
       quote:
         "MISTAKES ARE PROOF THAT YOU ARE TRYING.",
       author: "",
+      
+    },
+    {
+      quote:
+        "YOU ARE ENOUGH.",
+      author: "",
+      
     },
   ];
   function chooseRandom(arr) {
