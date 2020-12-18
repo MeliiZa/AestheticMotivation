@@ -230,7 +230,13 @@
         "YOU ARE FORGETTING HOW FAR YOU HAVE COME.",
       author: "",
       
-    },    
+    },
+    {
+      quote:
+        "WHEN A FLOWER DOESNT BLOOM YOU FIX THE ENVIRONMENT IN WHICH IT GROWS, NOT THE FLOWER.",
+      author: "",
+      
+    }, 
   ];
   function chooseRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
