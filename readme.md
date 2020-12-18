@@ -6,7 +6,7 @@ Open a new tab or window, get a minimal motivational message.
 You can download the extension here:
 https://tinyurl.com/y954bksb
 
-## Table of Contents🍔
+## Table of Contents
 
 - [Tech Stack](#tech-stack)
 - [Features](#features)
